@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Pham Manh Huy from Vietnam
-- 👀 I’m interested in Software developer
-- 🌱 I’m currently learning Information technology
-- 💞️ I’m looking to collaborate on anywhere
-- 📫 How to reach me (+84786989685/phammanhhuy1107@gmail.com)
-
 <div align="center"> <img  style='border-radius: 20px; margin-top: 30px' src="https://ianttechnology.com/Content/images/banner-software-development.png"> </div>
 
 <h1 align="center">
@@ -15,11 +9,14 @@
 <br/>
 
 <div align="center">
+👋 Hi, I’m Pham Manh Huy from Vietnam    
+👀 I’m interested in Software developer
 
-🌍 I'm based in Vietnamese
-
-🔭 I’m currently working on **a chat app**
-
+🌱 I’m currently working on **a chat app**
+  
+💞️ I’m looking to collaborate on anywhere
+   
+📫 How to reach me (+84786989685/phammanhhuy1107@gmail.com)
  </div>
 
 <p align="center">
