@@ -41,7 +41,7 @@
 
 <hr/>
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
   <a href="#" title="huypham0508">
@@ -50,7 +50,7 @@
   <a href="#" title="huypham0508">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=huypham0508&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
